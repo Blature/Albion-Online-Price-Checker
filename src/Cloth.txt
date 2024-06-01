@@ -1,0 +1,20 @@
+Fine Cloth
+Uncommon Fine Cloth
+Rare Fine Cloth
+Exceptional Fine Cloth
+Ornate Cloth
+Uncommon Ornate Cloth
+Rare Ornate Cloth
+Exceptional Ornate Cloth
+Lavish Cloth
+Uncommon Lavish Cloth
+Rare Lavish Cloth
+Exceptional Lavish Cloth
+Opulent cloth
+Uncommon Opulent Cloth
+Rare Opulent Cloth
+Exceptional Opulent Cloth
+Baroque Cloth
+Uncommon Baroque Cloth
+Rare Baroque Cloth
+Exceptional Baroque Cloth
